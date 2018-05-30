@@ -23,4 +23,3 @@ Implementation of some famous Machine Learning algorithms in Python 3.
 4. Sci-kit learn
 <br><br>
 Created and Maintained by Manan Manwani
-Other Contributors- @riyapannu7
